@@ -72,6 +72,9 @@ main > section{
   font-weight: 600;
   font-size: 1.05rem;
 }
+.logo img {
+  width: 70px;
+}
 .nav{
   display:flex;
   gap: 2rem;
